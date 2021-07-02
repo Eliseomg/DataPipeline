@@ -32,4 +32,4 @@ python DataPipeline.py
 
 _Creado por_
 
-* **Eliseo Morales**  - [villanuevand](https://github.com/villanuevand)
+* **Eliseo Morales**
