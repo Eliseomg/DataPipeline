@@ -1,0 +1,6 @@
+pandas
+numpy
+pg8000
+sklearn
+mysql-connector==2.2.9
+pymysql
